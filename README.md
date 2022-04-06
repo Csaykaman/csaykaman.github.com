@@ -5,7 +5,7 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 
 ---
 
-## Music
+# Music
 Click the following Titles to be directed to my favorite music. 
 
 ---
