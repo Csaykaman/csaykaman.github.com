@@ -50,7 +50,7 @@ Click the following Titles to be directed to my favorite music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wo28IopG2WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 5. Link CLick
+### 5. Link Click
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n8aowlN_FoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -60,7 +60,11 @@ Click the following Titles to be directed to my favorite music.
    
    -Genshin : Asia Server 813955483
   
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/QtD7zHHBqJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
    -Valorant: Csaykaman `#7906`
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/exH7XbRino8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
