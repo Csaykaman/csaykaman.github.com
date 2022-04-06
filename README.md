@@ -76,7 +76,8 @@ Click the following Titles to be directed to my favorite music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1d9ulKmCIkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-----
+---
+
 
 > Feel free to play with me on Genshin or Valorant :> 🎮 
    
