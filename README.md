@@ -5,6 +5,10 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 
 ---
 
+
+
+
+
 ## Music 
 
 ![629b065f07bd59226785164e6a2310f1](https://user-images.githubusercontent.com/102635366/161968103-585ce7e2-d0d5-43c6-9091-a227d551302f.gif)
@@ -51,10 +55,10 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 ### 🌟 Escapism
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6887YAN1Hr6GMdAuCyXYg7?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-
-
 ---
+
+
+
 
 ## My Favorite Animes 📺
 
@@ -110,9 +114,10 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 ### 🐶 Bungou Stray Dogs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f9OV_KzR3SM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 ---
+
+
+
 
 <3
 
@@ -123,9 +128,9 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
    -Genshin : Asia Server 813955483 🪄
    
    <iframe width="560" height="315" src="https://www.youtube.com/embed/QtD7zHHBqJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  
 ---
+
+
 
 
 ## THANK YOU 💙 [🐮](https://youtu.be/Uc6bdRChpZk)
