@@ -27,7 +27,15 @@ Click the following Titles to be directed to my favorite music.
 
 ![20220324131956](https://user-images.githubusercontent.com/102635366/161880147-52891d43-b825-49a6-a861-0afb7ced49ef.png)
 
---------
+---
 
+> Feel free to play with me on Genshin or Valorant :>
+   
+   -Genshin : Asia Server 813955483
+  
+   -Valorant: Csaykaman `#7906`
+
+---
 ## THANK YOU 💙
+
 ![277828378_274239308109770_7991701006088085682_n](https://user-images.githubusercontent.com/102635366/161897507-4190dc57-f3fc-42d5-a875-43ed3cfdcbf0.png)
