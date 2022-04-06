@@ -62,6 +62,8 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 
 ## My Favorite Animes 📺
 
+
+
 ### 🏸. Salaryman's Club
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ihbsVLsXu8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -105,6 +107,7 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 ### 😢 Banana Fish
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W37W5GslZQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### 🌊 Waves!!
 
