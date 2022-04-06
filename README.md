@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## My Chill Space :relaxed:
 
-You can use the [editor on GitHub](https://github.com/Csaykaman/csaykaman.github.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![a490638d-e3f4-4849-a1c7-7426bd653632](https://user-images.githubusercontent.com/102635366/161874476-ac815786-2bb3-4d54-b86a-1b5088ad0001.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+By: Mary Francine Alegre
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+### My Favorite Music to Relax :DD
+Click the following Titles to be directed to my favorite music. 
+---
+[:collision: A Dangerous Thing by:Aurora](https://youtu.be/zaaEvo_8i4Y) 
 
-# Header 1
-## Header 2
-### Header 3
+![Aurora-4](https://user-images.githubusercontent.com/102635366/161872922-867be8c7-b785-45f2-bf60-88dbca54d691.jpg)
 
-- Bulleted
-- List
+[:speech_balloon: The Messenger by: Linkin Park](https://youtu.be/mbzqubjthgM) 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Csaykaman/csaykaman.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![41BjT+AvT3L _SX300_SY300_QL70_ML2_](https://user-images.githubusercontent.com/102635366/161875474-e3a981b4-9633-4d07-ab5f-15d192dc9776.jpg)
