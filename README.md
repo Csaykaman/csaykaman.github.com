@@ -5,7 +5,9 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 
 ---
 
-# Music
+# Music 
+
+![629b065f07bd59226785164e6a2310f1](https://user-images.githubusercontent.com/102635366/161968103-585ce7e2-d0d5-43c6-9091-a227d551302f.gif)
  
 ---
 
