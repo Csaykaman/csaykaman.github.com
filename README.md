@@ -26,3 +26,8 @@ Click the following Titles to be directed to my favorite music.
 [🌀 Stormterror's Lair OST](https://youtu.be/jFFrOiuGWSA)
 
 ![20220324131956](https://user-images.githubusercontent.com/102635366/161880147-52891d43-b825-49a6-a861-0afb7ced49ef.png)
+
+--------
+
+## THANK YOU 💙
+![19d0d5ddb46268f5b483111302c06aae](https://user-images.githubusercontent.com/102635366/161897092-e7105671-ac3f-4fbc-96a9-14fbcb53c5ee.jpg)
