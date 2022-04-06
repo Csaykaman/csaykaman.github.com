@@ -29,12 +29,25 @@ Click the following Titles to be directed to my favorite music.
 
 ---
 
-### My Favorite Animes 
+## My Favorite Animes 
 
- 1. Salaryman's Club
+### 1. Salaryman's Club
     
     - <iframe width="560" height="315" src="https://www.youtube.com/embed/ihbsVLsXu8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### 2. Kono Oto Tomare
+   
+    - <iframe width="560" height="315" src="https://www.youtube.com/embed/u5LDoMHlqHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+### 3. Kyoukai no Kanata / Beyond the boundary
+ 
+    - <iframe width="560" height="315" src="https://www.youtube.com/embed/HU5EeNd1iXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+### 4. Ascendance of a Bookworm
+
+     - <iframe width="560" height="315" src="https://www.youtube.com/embed/Wo28IopG2WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+----
 
 > Feel free to play with me on Genshin or Valorant :>
    
@@ -43,6 +56,8 @@ Click the following Titles to be directed to my favorite music.
    -Valorant: Csaykaman `#7906`
 
 ---
+
+
 ## THANK YOU 💙
 
 ![277828378_274239308109770_7991701006088085682_n](https://user-images.githubusercontent.com/102635366/161897507-4190dc57-f3fc-42d5-a875-43ed3cfdcbf0.png)
