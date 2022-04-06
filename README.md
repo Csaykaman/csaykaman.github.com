@@ -77,6 +77,26 @@ Click the following Titles to be directed to my favorite music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1d9ulKmCIkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### ❓ Moriarty the Patriot
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fN0et_oxumc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### 😢 Banana Fish
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W37W5GslZQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 🌊 Waves!!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pQv2RQ9Mah0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### 🐶 Bungou Stray Dogs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f9OV_KzR3SM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ---
 
 <3
