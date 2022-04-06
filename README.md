@@ -29,7 +29,7 @@ Click the following Titles to be directed to my favorite music.
 
 ---
 
-## My Favorite Animes 
+## My Favorite Animes 📺
 
 ### 1. Salaryman's Club
     
