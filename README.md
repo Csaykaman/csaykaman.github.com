@@ -35,21 +35,6 @@ Click the following Titles to be directed to my favorite music.
     
     - <iframe width="560" height="315" src="https://www.youtube.com/embed/ihbsVLsXu8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-### 2. Kono Oto Tomare
-   
-    - <iframe width="560" height="315" src="https://www.youtube.com/embed/u5LDoMHlqHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    
-
-### 3. Kyoukai no Kanata / Beyond the boundary
- 
-    - <iframe width="560" height="315" src="https://www.youtube.com/embed/HU5EeNd1iXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    
-
-### 4. Ascendance of a Bookworm
-
-     - <iframe width="560" height="315" src="https://www.youtube.com/embed/Wo28IopG2WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ----
 
 > Feel free to play with me on Genshin or Valorant :>
