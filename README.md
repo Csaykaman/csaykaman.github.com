@@ -29,6 +29,13 @@ Click the following Titles to be directed to my favorite music.
 
 ---
 
+### My Favorite Animes 
+
+ 1. Salaryman's Club
+    
+    - <iframe width="560" height="315" src="https://www.youtube.com/embed/ihbsVLsXu8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 > Feel free to play with me on Genshin or Valorant :>
    
    -Genshin : Asia Server 813955483
