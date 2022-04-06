@@ -1,5 +1,5 @@
 # My Chill Space ☁️
-By: Mary Francine Alegre
+By: Mary Francine A. Alegre 9 - Ogilvie A
 
 ![a490638d-e3f4-4849-a1c7-7426bd653632](https://user-images.githubusercontent.com/102635366/161874476-ac815786-2bb3-4d54-b86a-1b5088ad0001.png)
 
