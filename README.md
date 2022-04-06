@@ -1,13 +1,11 @@
-## My Chill Space ☁️
+# My Chill Space ☁️
+By: Mary Francine Alegre
 
 ![a490638d-e3f4-4849-a1c7-7426bd653632](https://user-images.githubusercontent.com/102635366/161874476-ac815786-2bb3-4d54-b86a-1b5088ad0001.png)
 
-
-By: Mary Francine Alegre
-
 ---
 
-### My Favorite Music to Relax :DD
+## Music
 Click the following Titles to be directed to my favorite music. 
 ---
 
@@ -27,50 +25,65 @@ Click the following Titles to be directed to my favorite music.
 
 ![20220324131956](https://user-images.githubusercontent.com/102635366/161880147-52891d43-b825-49a6-a861-0afb7ced49ef.png)
 
+## Music Playlists (spotify) 🎵
+
+### 🧊 Chill
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5tzRR7YiZX56bHWX7HKw5B?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+### 🌟 Escapism
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6887YAN1Hr6GMdAuCyXYg7?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
 ---
 
-## My Favorite Animes 📺
+# My Favorite Animes 📺
 
-### 1. Salaryman's Club
+### 🏸. Salaryman's Club
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ihbsVLsXu8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### 2. Kono Oto Tomare
+### 🎼. Kono Oto Tomare
    
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u5LDoMHlqHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
 
-### 3. Kyoukai no Kanata / Beyond the boundary
+### ⚔️. Kyoukai no Kanata / Beyond the boundary 
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HU5EeNd1iXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
 
-### 4. Ascendance of a Bookworm
+### 📖. Ascendance of a Bookworm
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wo28IopG2WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 5. Link Click
+
+### 📷 ⏳. Link Click
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n8aowlN_FoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 6. The Millionaire Detective - Balance: UNLIMITED 
+
+### 🔎. The Millionaire Detective - Balance: UNLIMITED
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X713Wor89Ow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### 🏀. Kuroko no Basuke
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1d9ulKmCIkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ----
 
-> Feel free to play with me on Genshin or Valorant :>
+> Feel free to play with me on Genshin or Valorant :> 🎮 
    
-   -Genshin : Asia Server 813955483
-  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/QtD7zHHBqJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-   -Valorant: Csaykaman `#7906`
+   -Genshin : Asia Server 813955483 🪄
+    
+   -Valorant: Csaykaman #7906 🔫
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/exH7XbRino8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
