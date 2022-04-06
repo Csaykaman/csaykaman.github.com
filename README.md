@@ -41,12 +41,12 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 ![catjam-vibin](https://user-images.githubusercontent.com/102635366/161968753-a2a6571e-35b8-464d-9c62-e45ab58c36a4.gif)
 
 
-### 🧊 Chill
+🧊 Chill
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5tzRR7YiZX56bHWX7HKw5B?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
-### 🌟 Escapism
+🌟 Escapism
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6887YAN1Hr6GMdAuCyXYg7?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
