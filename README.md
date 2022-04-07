@@ -66,6 +66,9 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 ## My Favorite Animes 📺
 
 
+![1306-chibi-paimon-smug (1)](https://user-images.githubusercontent.com/102635366/162199563-54b7ee5a-f423-4038-b88a-7fac1a251f0d.png)
+
+
 
 ### 🏸. Salaryman's Club
     
@@ -148,4 +151,5 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 
 ## THANK YOU 💙 [🐮](https://youtu.be/Uc6bdRChpZk)
 
-![277828378_274239308109770_7991701006088085682_n](https://user-images.githubusercontent.com/102635366/161897507-4190dc57-f3fc-42d5-a875-43ed3cfdcbf0.png)
+![8d2e4d559fd80e1d3c21d368e87428b7](https://user-images.githubusercontent.com/102635366/162199651-77f0ee48-1501-40b5-81a7-31a7d8359738.png)
+
