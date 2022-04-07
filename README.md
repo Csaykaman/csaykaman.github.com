@@ -11,8 +11,8 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 
 ## Music 🎹
 
-![629b065f07bd59226785164e6a2310f1](https://user-images.githubusercontent.com/102635366/161968103-585ce7e2-d0d5-43c6-9091-a227d551302f.gif)
- 
+![6586_doge_dance](https://user-images.githubusercontent.com/102635366/162201023-f2afa3ef-8306-41ef-8d51-ed6164acdc15.gif)
+
 
 
 ### 💥 A Dangerous Thing by:Aurora
