@@ -9,7 +9,7 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 
 
 
-## Music 
+## Music 🎹
 
 ![629b065f07bd59226785164e6a2310f1](https://user-images.githubusercontent.com/102635366/161968103-585ce7e2-d0d5-43c6-9091-a227d551302f.gif)
  
@@ -120,6 +120,7 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 ---
 
 
+![0cfd80cc7c814f046f87b717c1b423da](https://user-images.githubusercontent.com/102635366/162098841-2cce08de-26c7-419a-adfb-bfab6bb7f19f.gif)
 
 
 <3
