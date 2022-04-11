@@ -40,6 +40,16 @@ By: Mary Francine A. Alegre 9 - Ogilvie A
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d1q9ahJCpLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### 🧑‍🤝‍🧑 Slipping Through my Fingers by: Amanda Seyfried and Meryl Streep (From 'Mamma Mia!' Original Motion Picture Soundtrack)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RF9wHFw3kTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### 🧚 The Willow Maid by: Erutan 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E52rxz2sjRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ---
 
 
